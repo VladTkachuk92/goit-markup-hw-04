@@ -140,7 +140,7 @@ img {
   fill: var(--accent-color);
 }
 .icon {
-  color: currentColor;
+  fill: currentColor;
 }
 
 /* hero */
